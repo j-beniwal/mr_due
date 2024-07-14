@@ -1,0 +1,73 @@
+### Compliance Checklist for IT Tool Procurement in a Health Company (EU)
+
+#### 1. **Data Protection and Privacy**
+   - Ensure compliance with General Data Protection Regulation (GDPR).
+     - Data collection, storage, processing, and sharing policies.
+     - Data subject rights (access, correction, deletion).
+     - Data Protection Impact Assessment (DPIA) for new tools.
+     - Appointment of a Data Protection Officer (DPO) if required.
+
+#### 2. **Information Security**
+   - Verify compliance with ISO/IEC 27001 standards.
+     - Risk assessment and management protocols.
+     - Incident response and recovery procedures.
+     - Regular security audits and vulnerability assessments.
+
+#### 3. **Health Data Regulations**
+   - Adherence to Health Insurance Portability and Accountability Act (HIPAA) if applicable.
+     - Safeguards for protected health information (PHI).
+     - Secure electronic transmission and storage of health data.
+
+#### 4. **Software and Vendor Assessment**
+   - Vendor’s compliance with relevant regulations.
+     - Background checks and certifications (e.g., ISO certifications).
+     - Service Level Agreements (SLAs) and compliance guarantees.
+   - Software compliance with medical device regulations (if applicable).
+     - CE marking for medical software.
+
+#### 5. **Interoperability and Standards**
+   - Compliance with Health Level Seven International (HL7) standards.
+     - Integration with existing systems (Electronic Health Records, EHR).
+     - Use of standardized data formats and protocols.
+
+#### 6. **User Access and Authentication**
+   - Strong user authentication mechanisms.
+     - Role-based access control (RBAC).
+     - Multi-factor authentication (MFA).
+
+#### 7. **Data Retention and Disposal**
+   - Policies for data retention, archiving, and disposal.
+     - Compliance with national and EU-specific retention requirements.
+     - Secure deletion and destruction of data.
+
+#### 8. **Audit and Monitoring**
+   - Regular audits for compliance verification.
+     - Monitoring and logging of access and activities.
+     - Procedures for handling audit findings and non-compliance issues.
+
+#### 9. **Transparency and Accountability**
+   - Clear documentation of policies, procedures, and compliance measures.
+     - Accountability mechanisms for compliance breaches.
+     - Regular training for staff on compliance and security policies.
+
+#### 10. **Ethical Considerations**
+   - Ethical guidelines for data use and AI implementations.
+     - Patient consent and transparency in data use.
+     - Avoidance of bias and discrimination in tool usage.
+
+#### 11. **Environmental and Sustainability Compliance**
+   - Adherence to environmental regulations and sustainability practices.
+     - Energy-efficient and environmentally friendly IT solutions.
+     - Waste management and recycling policies.
+
+#### 12. **Contractual Obligations**
+   - Detailed contracts with vendors including compliance clauses.
+     - Liability and indemnity provisions.
+     - Terms for termination and data return/transfer.
+
+#### 13. **Regulatory Compliance**
+   - Compliance with relevant EU directives and national laws.
+     - Regular updates and adaptations to comply with new regulations.
+     - Consultation with legal experts for compliance verification.
+
+By following this checklist, a health company in the EU can ensure that the procurement of IT tools aligns with all necessary legal, ethical, and security standards.
